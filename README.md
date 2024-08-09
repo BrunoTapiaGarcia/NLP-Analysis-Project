@@ -18,6 +18,7 @@ The most used words in the United States, Australia and Canada, the countries co
 
 Distribution of Relative Frequencies of Terms in the different regions
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1VVTVIe6xvXHwUrSzI_n3J8LN-gM-ziSD)
+[![Screenshot-2024-08-08-at-6-32-08-p-m.png](https://i.postimg.cc/50WPFD5Z/Screenshot-2024-08-08-at-6-32-08-p-m.png)](https://postimg.cc/FfGbMWBZ)
 
 **TF-IDF Analysis**
 
