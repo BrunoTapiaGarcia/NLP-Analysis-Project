@@ -15,5 +15,10 @@ Las palabras más utilizadas en Estados Unidos, Australia y Canada, los países 
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1wTUnRTfNbSZpe_MaaqqTtaHPcNKE8VC_)
 
 
+Distribución de Frecuencias Relativas de Términos en las diferentes regiones
 
-https://drive.google.com/file/d/1wTUnRTfNbSZpe_MaaqqTtaHPcNKE8VC_/view?usp=drive_link
+https://drive.google.com/file/d/1VVTVIe6xvXHwUrSzI_n3J8LN-gM-ziSD/view?usp=drive_link
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1VVTVIe6xvXHwUrSzI_n3J8LN-gM-ziSD)
+
+
+https://drive.google.com/file/d/1VVTVIe6xvXHwUrSzI_n3J8LN-gM-ziSD/view?usp=drive_link
