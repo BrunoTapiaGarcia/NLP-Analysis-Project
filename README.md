@@ -12,7 +12,7 @@ Frequency of the most used words in the entire dataset
 Sets of three words (Trigrams) most commonly used throughout the dataset
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=164wHTiqpVINIpCWxNQMdcD5K_Hnw3R9m)
 
-The most used words in the United States, Australia and Canada, the countries containing the most data records in the aggregate
+The most used words in the United States, Australia and Canada, the countries containing most data
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1wTUnRTfNbSZpe_MaaqqTtaHPcNKE8VC_)
 
 
