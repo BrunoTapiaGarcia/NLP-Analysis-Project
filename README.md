@@ -1,6 +1,6 @@
 # Airbnb NLP-Analysis-Project with R
 
-**Overviewn**
+**Overview**
 
 This project aims to achieve to perform an unstructured data analysis of the descriptions of the properties listed on the AirBnb platform worldwide, the database was extracted directly from the ModgoDB server and I used techniques such as n-grams analysis and the TF-IDF Framework to show the findings. 
 
