@@ -19,7 +19,23 @@ The most used words in the United States, Australia and Canada, the countries co
 Distribution of Relative Frequencies of Terms in the different regions
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1VVTVIe6xvXHwUrSzI_n3J8LN-gM-ziSD)
 
-**Analysis**
+**TF-IDF Analysis**
+Australia
+- Keywords such as "cbd" (Central Business District), "Sydney", "Bondi", and "Manly" indicate a strong focus on urban and coastal areas, especially Sydney, which is one of the most popular cities in Australia.
+- The emphasis on "beaches" and specific beach names such as "Bondi" and "Manly" suggests that proximity to the coast is a crucial factor for users in Australia.
+- Terms such as "suburb", "harbor", and "wharf" also show interest in residential areas close to the coast and urban areas.
+
+Canada
+- Montreal is clearly the center of attention in Canada, with multiple related terms such as "Montreal", "downtown", and "metro".
+- Terms such as "parc" (park), "logement" (accommodation), "salle" (room), and "pied" (foot, referring to proximity or walkability) highlight the importance of accessibility, green spaces, and amenities.
+- The predominance of French terms underscores the need for bilingual content in Montreal listings.
+
+United States
+- "Manhattan", "Brooklyn", and "NYC" are dominant terms, reflecting the huge demand for properties in New York, one of the most visited cities in the world.
+- Tourist Destinations: "Hawaii" and associated terms such as "beaches", "lanai", "waikiki" suggest strong interest in popular vacation destinations.
+- The appearance of "condo" and "remodeled" indicate that users value modern and renovated properties.
+	
+**Distribution of Frequencies Analysis**
 - Australia and the United States: Both regions show a high concentration of terms on the far left of the frequency distribution graph, indicating that a small number of terms are extremely common in the descriptions, this indicates that these markets are more homogeneous, with many listings focusing on similar locations and characteristics.
  
 - Canada: The graph shows a slightly more dispersed distribution compared to Australia and the United States, indicating a greater diversity in the terms used. This could be related to the linguistic duality (French and English) and the diverse characteristics that users value in different regions of the country.
