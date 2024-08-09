@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This project aims to achieve to perform an unstructured data analysis of the descriptions of the properties listed on the AirBnb platform worldwide, the database was extracted directly from the ModgoDB server and I used techniques such as n-grams analysis and TF-IDF Framework to show the findings. 
+This project aims to achieve to perform an unstructured data analysis of the descriptions of the properties listed on the AirBnb platform worldwide, the database was extracted directly from the ModgoDB server and I used techniques such as n-grams analysis and the TF-IDF Framework to show the findings. 
 
 Frequency of the most used words in the entire dataset
 [![Screenshot-2024-08-08-at-5-35-56-p-m.png](https://i.postimg.cc/8cSjrD8p/Screenshot-2024-08-08-at-5-35-56-p-m.png)](https://postimg.cc/WF52QBbC)
