@@ -1,7 +1,5 @@
 # AirBnb NLP-Analysis-Project
 
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 **Introduction**
 
 This project aims to achieve to perform an unstructured data analysis of the descriptions of the properties listed on the AirBnb platform worldwide, the database was extracted directly from the ModgoDB server and I used techniques such as n-grams analysis and TF-IDF Framework to show the findings. 
@@ -20,6 +18,7 @@ Distribution of Relative Frequencies of Terms in the different regions
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1VVTVIe6xvXHwUrSzI_n3J8LN-gM-ziSD)
 
 **TF-IDF Analysis**
+
 Australia
 - Keywords such as "cbd" (Central Business District), "Sydney", "Bondi", and "Manly" indicate a strong focus on urban and coastal areas, especially Sydney, which is one of the most popular cities in Australia.
 - The emphasis on "beaches" and specific beach names such as "Bondi" and "Manly" suggests that proximity to the coast is a crucial factor for users in Australia.
@@ -53,5 +52,6 @@ United States
 - Airbnb could benefit from further analyzing these low-frequency terms to identify unsaturated market opportunities, this could include creating targeted campaigns for properties that offer features or locations that are not being widely promoted, but could appeal to a specific niche of users.
 
 - The frequency distribution indicates that there are many opportunities to differentiate listings in saturated markets such as the United States and Australia, rather than competing solely on the most common terms, Airbnb can improve its SEO by focusing on long-tail terms that are not yet widely used, which could increase the visibility of less conventional properties.
+
 
 
