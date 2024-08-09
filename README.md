@@ -6,19 +6,20 @@ This project aims to achieve to perform an unstructured data analysis of the des
 
 Frequency of the most used words in the entire dataset
 <img src="https://drive.google.com/uc?export=view&id=1vaiYtMCAPox0SBsKWCJe04wTi-OE10wW" alt="Descripción de la imagen" />
+[![Screenshot-2024-08-08-at-5-35-56-p-m.png](https://i.postimg.cc/8cSjrD8p/Screenshot-2024-08-08-at-5-35-56-p-m.png)](https://postimg.cc/WF52QBbC)
 
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1vaiYtMCAPox0SBsKWCJe04wTi-OE10wW)
 
 Sets of three words (Trigrams) most commonly used throughout the dataset
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=164wHTiqpVINIpCWxNQMdcD5K_Hnw3R9m)
-
+[Screenshot-2024-08-08-at-5-49-20-p-m.png](https://postimg.cc/CRFkYyfq)
 The most used words in the United States, Australia and Canada, the countries containing most data
-![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1wTUnRTfNbSZpe_MaaqqTtaHPcNKE8VC_)
+[![Screenshot-2024-08-08-at-6-32-08-p-m.png](https://i.postimg.cc/50WPFD5Z/Screenshot-2024-08-08-at-6-32-08-p-m.png)](https://postimg.cc/FfGbMWBZ)
 
 
 Distribution of Relative Frequencies of Terms in the different regions
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1VVTVIe6xvXHwUrSzI_n3J8LN-gM-ziSD)
-[![Screenshot-2024-08-08-at-6-32-08-p-m.png](https://i.postimg.cc/50WPFD5Z/Screenshot-2024-08-08-at-6-32-08-p-m.png)](https://postimg.cc/FfGbMWBZ)
+[![Screenshot-2024-08-08-at-6-12-06-p-m.png](https://i.postimg.cc/xTgcqW6Q/Screenshot-2024-08-08-at-6-12-06-p-m.png)](https://postimg.cc/ykgVbrqp)
 
 **TF-IDF Analysis**
 
