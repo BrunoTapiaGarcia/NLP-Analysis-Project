@@ -54,4 +54,6 @@ United States
 - The frequency distribution indicates that there are many opportunities to differentiate listings in saturated markets such as the United States and Australia, rather than competing solely on the most common terms, Airbnb can improve its SEO by focusing on long-tail terms that are not yet widely used, which could increase the visibility of less conventional properties.
 
 
+<a href="Rentals_prediction_Divvy.ipynb">Download the Jupyter file</a>
+
 
