@@ -5,6 +5,8 @@
 This project aims to achieve to perform an unstructured data analysis of the descriptions of the properties listed on the AirBnb platform worldwide, the database was extracted directly from the ModgoDB server and I used techniques such as n-grams analysis and TF-IDF Framework to show the findings. 
 
 Frequency of the most used words in the entire dataset
+<img src="https://drive.google.com/uc?export=view&id=1vaiYtMCAPox0SBsKWCJe04wTi-OE10wW" alt="Descripción de la imagen" />
+
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1vaiYtMCAPox0SBsKWCJe04wTi-OE10wW)
 
 Sets of three words (Trigrams) most commonly used throughout the dataset
